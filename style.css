@@ -1,0 +1,57 @@
+.title  {
+    width: 260px;
+    padding: 10px;
+    border: 10px solid #0bd3d3;
+    background-color: #f890e7;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Fredoka One", cursive;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-shadow: #d0d0d0;
+    color: #000000;
+    border-radius: 10px;
+}
+
+body    {
+    background-image: url(https://i.pinimg.com/originals/7f/f2/6a/7ff26a7236f146a633f2a836e85f2c78.jpg);
+    background-repeat: repeat;
+    background-size: 300px;
+}
+
+#button  {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+#playerImage    {
+    margin: auto;
+    display: flex;
+}
+
+#playerName {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    font-style: oblique;
+    margin: auto;
+    margin-top: 50px;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 5px 5px black;
+}
+
+img {
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+}
